@@ -1,0 +1,50 @@
+/*----//CREATED BY DANIELKAGO 5/7/2021----*/
+
+.reg_box{
+	width: 320px;
+	height: 420px;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	background:#0dfcf0;
+	color: black;
+	position: absolute;
+	border-radius: 4px;
+}
+.reg_box h1{
+	color: blue;
+	margin-top: 16px;
+	margin-bottom: 14px;
+	text-align: center;
+	font-size: 22px;
+}
+.wrapper{
+    align-items: center;
+    text-align: center;
+}
+.reg_box input{
+	width: 80%;
+	margin-bottom: 20px;
+}
+.reg_box input[type="text"],input[type="email"],input[type="password"]{
+	border: none;
+	outline: none;
+	color: black;
+	margin-left: 6px;
+	border-bottom: 1px solid blue;
+	background: transparent;
+	height: 40px;
+}
+.reg_box button[type="submit"]{
+	width: 80%;
+	outline: none;
+	border: 1px solid blue;
+	border-radius: 3px;
+	height: 40px;
+	margin-left: 8px;
+	background: none;
+	cursor: pointer;
+}
+
+
+
