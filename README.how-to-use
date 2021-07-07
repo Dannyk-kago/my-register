@@ -1,0 +1,14 @@
+# my-register
+Simple website with PHP, HTML5, CSS3, and localhost database 
+
+## 'How to install'
+1.Extract files to htdocs folder.
+2.Start your XAMPP.
+3.Open the localhost in your browser.
+4.Go to phpmyadmin.
+5.Create a new database and call it register.
+6.Import the database in the database folder,i.e user.sql.
+7.Now open a new window browser and type 'localhost/kago/index.php.
+8.Register a new user
+9.Check in the database for the new user you have registered.
+
